@@ -7,6 +7,7 @@
  * main - prints the multiplication
  * @argc: argument count
  * @argv: argument vector
+ * _atoi - string
  *
  * Return: Always zero
  */
