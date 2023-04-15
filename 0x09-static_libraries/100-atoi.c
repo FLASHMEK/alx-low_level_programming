@@ -3,8 +3,15 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
+
+/**
+ * _atoi - convert a string
+ * @s: the string ti use
+ *
+ * Return: interger
+ */
 int _atoi(char *s)
 
 {
-	return atoi(s);
+	return (_atoi(s));
 }
